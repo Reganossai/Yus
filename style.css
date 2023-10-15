@@ -1,0 +1,595 @@
+.odd {
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    margin-left: 30%;
+    margin-top: 250px;
+    padding: 5px 25px;
+    width: 520px;
+    height: 500px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.rrr {
+    display: flex;
+    flex-direction: row;
+    margin: 15px 0;
+    margin-left: 20px;
+}
+
+.rrr img {
+    height: 22px;
+    margin: -3px 5px 0px 0px;
+    width: 25px;
+}
+
+.rrr h5 {
+    margin: 0px 10px 0px 0px;
+}
+
+.life {
+    margin-left: 150px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.joke {
+    border: 1px solid black;
+}
+
+.abah {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.abat {
+    padding-left: 290px;
+}
+
+.firsthome {
+    font-family: sans-serif;
+    margin: 0px 0px 0px 140px;
+    width: 1000px;
+}
+
+.firsthome h5 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    margin: 10px 0px 10px 0px;
+}
+
+#yy {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    margin: 0px 0px 0px 140px;
+    width: 1200px;
+
+
+
+
+}
+
+.ss {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    margin: 0px 0px 0px 140px;
+    width: 1200px;
+}
+
+.leo {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    margin: 0px 0px 0px 140px;
+    width: 1200px;
+}
+
+.sam {
+    margin-bottom: 20px;
+    width: 1000px;
+    font-family: sans-serif;
+    margin: 0px 0px 0px 140px;
+    width: 1200px;
+}
+
+body {
+    width: 100%;
+}
+
+
+#navbar a {
+    color: black;
+}
+
+
+#nav-lists {
+    margin: 0px 0px 0px 400px;
+    display: block;
+}
+
+#nav-lists li a {
+    margin: 0px 10px 0px 10px;
+}
+
+#kama {
+    margin: 20px 0px 0px 200px;
+    color: rgb(0, 153, 255);
+}
+
+#nav-list {
+    width: 40px;
+}
+
+#foot {
+    display: flex;
+}
+
+.aba {
+    width: 360px;
+    margin: 0px 0px 0px 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+.aba h3 {
+    font-size: 15px;
+    width: 340px;
+    font-weight: 700;
+}
+
+.aba h4 {
+    font-size: 13px;
+}
+
+.bb {
+    font-size: 48px;
+    color: black;
+    font-weight: 700;
+
+}
+
+.aa {
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(0, 153, 255);
+}
+
+.rr {
+    width: 600px;
+    height: 350px;
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
+
+
+.up {
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+.fluid {
+    width: 200px;
+}
+
+#btt {
+    width: 200px;
+}
+
+#accordionExample {
+    width: 300px;
+}
+
+.ll {
+    width: 1000px;
+    text-align: center;
+    margin: 0px 0px 0px 180px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.ll h2 {
+    padding-top: 60px;
+    margin-left: 80px;
+}
+
+.ll p {
+    margin: 20px 50px 0px 50px;
+    width: 900px;
+}
+
+.qq {
+    text-align: center;
+    padding-top: 70px;
+    padding-right: 100px;
+    margin: 0px 0px 0px 500px;
+}
+
+.tab-contents ul li {
+    list-style-type: none;
+}
+
+.about-col-2 {
+    width: 900px;
+    margin: 100px 0px 0px 0px;
+}
+
+.btn:hover {
+    color: darkgreen;
+    font-weight: 600;
+}
+
+
+#ff {
+    margin-top: 70px;
+}
+
+#yy {
+    margin-bottom: 30px;
+    padding-right: 10px;
+
+}
+
+#xx {
+    margin-bottom: 20px;
+}
+
+.mobile-menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+
+
+    /* Hide by default for larger screens */
+}
+
+.mobile-menu {
+    display: none;
+    /* Add styles for the mobile menu, e.g., background, positioning, etc. */
+}
+
+#navbar a.clicked {
+    padding-bottom: 10px;
+    border: 2px solid black;
+
+}
+
+#skills li {
+    margin: 0px 0px 0px 30px;
+}
+
+.ig {
+    width: 20px;
+    height: 20px;
+}
+
+.ban {
+    margin-top: 70px;
+    background-color: white;
+    height: 300px;
+
+}
+
+.linko {
+    margin: 100px 0px 0px 800px;
+    display: flex;
+    flex-direction: row;
+}
+
+.linko a {
+    margin: 0px 20px 0px 0px;
+}
+
+
+#contact-form{
+    margin: 0px 0px 0px 120px;
+}
+
+.all-forms input {
+    width: 1100px;
+}
+
+.all-forms textarea {
+    width: 1100px;
+}
+
+@media (max-width: 768px) {
+    .milo{
+        width: 90%;
+        margin: 50px 0px 50px 19px;
+    }
+
+    .mobile-menu {
+        display: block;
+        height: 30vh;
+        margin: -18px 0px 0px 0px;
+        background-color: cornflowerblue;
+    }
+
+    .mobile-menu a {
+        font-size: 18px;
+        color: black;
+        margin: 10px 0px 10px 0px;
+    }
+
+    .mobile-menu ul {
+        padding-top: 15px;
+    }
+
+    .mobile-menu li {
+        list-style-type: none;
+        margin: 10px 0px 10px 0px;
+    }
+
+    #nav-lists {
+        display: none;
+        margin: 0px 0px 0px 400px;
+    }
+
+    #nav-lists li a {
+        margin: 0px 10px 0px 10px;
+    }
+
+    #kama {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .mobile-menu-toggle {
+        margin: 10px 0px 0px 0px;
+        padding-left: 80px;
+        display: block;
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .aba {
+        width: 95%;
+        margin: 50px 0px 0px 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        font-size: 20px;
+        border-radius: 20px;
+    }
+
+    .abah h1{
+        font-size: 25px;
+        font-weight: 800;
+    }
+
+    .abah p{
+        width: 85%;
+        margin: 0px 15px 30px 25px;
+    }
+
+
+
+
+    .ll {
+        width: 95%;
+        margin: 0px 0px 0px 10px;
+        border-radius: 20px;
+    }
+
+    .ll h2 {
+        padding-top: 60px;
+        margin-left: 0px;
+    }
+
+    .ll p {
+        margin: 20px 10px 0px 10px;
+        width: 98%;
+    }
+
+
+    #lmao {
+        width: 350px;
+    }
+
+   #skills ul{
+    margin: 0px 0px 0px 0px; 
+   }
+    #skills li {
+        margin: 0px 0px 0px 0px;
+    }
+
+
+
+
+    .rr {
+        display: none;
+        width: 300px;
+        height: 280px;
+        position: absolute;
+        top: 800px;
+        left: 40px;
+    }
+
+    #alop {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .ff {
+        margin-inline-end: 500px;
+    }
+
+    #yy {
+        margin-bottom: 20px;
+        width: 350px;
+
+    }
+
+    .ss {
+        margin-bottom: 20px;
+        width: 350px;
+    }
+
+    .leo {
+        margin-bottom: 20px;
+        width: 350px;
+    }
+
+    .sam {
+        margin-bottom: 20px;
+        width: 350px;
+    }
+
+    .aa {
+        color: aqua;
+    }
+
+
+    .odd {
+        background-color: cornflowerblue;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-top: 250px;
+        width: 95%;
+        border-radius: 20px;
+    }
+
+
+    .odd h2{
+        margin: 20px 0px 0px 80px;
+    }
+
+    .rrr {
+        display: flex;
+        flex-direction: row;
+        margin: 15px 0;
+    }
+
+    .rrr {
+        display: flex;
+        flex-direction: row;
+        margin: 15px 0;
+    }
+
+    .no {
+        height: 23px;
+        margin: 7px 0;
+        width: 25px;
+    }
+
+    .really {
+        height: 23px;
+        margin: 7px 0;
+        width: 25p
+    }
+
+    .firsthome {
+        font-family: sans-serif;
+        margin: 0px 0px 0px 40px;
+        width: 300px;
+    }
+
+    .ban {
+        background-color: cornflowerblue;
+        display: flex;
+        flex-direction: column;
+        font-family: sans-serif;
+        height: 400px;
+        margin: 200px 0px 0px 0px;
+        max-height: 400px;
+        width: 100%;
+    }
+
+    .ray {
+        margin: 5px 0;
+
+        text-align: center;
+        width: 350px;
+    }
+
+    .kaka {
+        display: flex;
+        flex-direction: row;
+        margin: 0 0 0 5px;
+    }
+
+    .ig {
+        height: 18px;
+        width: 18px;
+    }
+
+    .bb {
+        color: black;
+        font-size: xx-large;
+
+    }
+
+    .aa {
+        color: rgb(95, 129, 160);
+    }
+
+    #contact-form{
+        margin: 0px 0px 0px 40px;
+    }
+    
+    .all-forms input {
+        width: 90%;
+        margin: 8px 0px 8px 0px;
+        border-radius: 15px;
+    }
+
+    .all-forms textarea {
+        width: 90%;
+        margin: 10px 0px 10px 0px;
+        border-radius: 10px;    
+    }
+
+    .firsthome input {
+        width: 100%;
+        margin: 8px 0px 8px 0px;
+        border-radius: 15px;
+    }
+
+    .firsthome textarea {
+        width: 90%;
+        margin: 10px 0px 10px 0px;
+        border-radius: 10px;    
+    }
+
+    .linko {
+        margin: 100px 0px 0px 10px;
+        display: flex;
+        flex-direction: row;
+        padding: 5px 0px 0px 60px;
+    }
+
+    .linko a {
+        margin: 0px 20px 0px 0px;
+    }
+    .abat {
+       padding-left: 50px;
+        width: 290px;
+    }
+    .leo {
+        padding-right: 100%;
+        margin-left: 70;
+    }
+
+    #submittt{
+        background-color: cornflowerblue;
+        border-radius: 25px;
+        width: 200px;
+        padding: 10px 5px 10px 5px;
+        margin: 20px 0px 0px -20px;
+    }
+
+    .submit-btn{
+        background-color: cornflowerblue;
+        border-radius: 25px;
+        border: none;
+        width: 200px;
+        padding: 10px 5px 10px 5px;
+        margin: 20px 0px 0px 50px;
+    }
+    
+}
